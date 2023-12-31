@@ -39,7 +39,7 @@
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "pyros_nsfw_v04-step00110000.safetensors": "https://civitai.com/api/download/models/191882",
-        "RealCartoon_XL.safetensors": "https://civitai.com/api/download/models/254091?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "RealCartoon_XLv4.safetensors": "https://civitai.com/api/download/models/234137?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {
         "EasyNegative.safetensor": "https://civitai.com/api/download/models/9208"
