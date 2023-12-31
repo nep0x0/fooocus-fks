@@ -1,5 +1,5 @@
 {
-    "default_model": "pyros_nsfw_v04-step00110000.safetensors",
+    "default_model": "RealCartoon_XL.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,8 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "pyros_nsfw_v04-step00110000.safetensors": "https://civitai.com/api/download/models/191882"
+        "pyros_nsfw_v04-step00110000.safetensors": "https://civitai.com/api/download/models/191882",
+        "RealCartoon_XL.safetensors": "https://civitai.com/api/download/models/254091?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {
         "EasyNegative.safetensor": "https://civitai.com/api/download/models/9208"
