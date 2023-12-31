@@ -1,10 +1,10 @@
 {
-    "default_model": "DreamShaper8_pruned.safetensors",
-    "default_refiner": "uber.safetensors",
+    "default_model": "pyros_nsfw_v04-step00110000.safetensors",
+    "default_refiner": "",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "LCM-LoRA-Weights.safetensors.safetensors",
+            "aio_nsfw.safetensors",
             0.1
         ],
         [
@@ -38,12 +38,13 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "DreamShaper8_pruned.safetensors": "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "pyros_nsfw_v04-step00110000.safetensors": "https://civitai.com/api/download/models/191882"
     },
     "embeddings_downloads": {
         "EasyNegative.safetensor": "https://civitai.com/api/download/models/9208"
     },
     "lora_downloads": {
-        "LCM-LoRA-Weights.safetensors": "https://civitai.com/api/download/models/225222?type=Model&format=SafeTensor"
+        "SDXL_Sevenof9_7th_NSFW.safetensors": "https://civitai.com/api/download/models/278770",
+        "aio_nsfw.safetensors": "https://civitai.com/api/download/models/160240"
     }
 }
