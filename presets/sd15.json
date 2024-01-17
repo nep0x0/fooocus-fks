@@ -1,5 +1,5 @@
 {
-    "default_model": "OmnigenXL.safetensors",
+    "default_model": "JuggerXL_inpaint.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "OmnigenXL.safetensors": "https://civitai.com/api/download/models/228559?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "JuggerXL_inpaint.safetensors": "https://civitai.com/api/download/models/288402"
     },
     "embeddings_downloads": {
     },
