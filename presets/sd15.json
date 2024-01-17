@@ -1,10 +1,10 @@
 {
-    "default_model": "JuggerXL_inpaint.safetensors",
+    "default_model": "pyros.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "None",
+            "povblowjob.safetensors",
             0.75
         ],
         [
@@ -38,10 +38,11 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "JuggerXL_inpaint.safetensors": "https://civitai.com/api/download/models/288402"
+        "pyros.safetensors": "https://civitai.com/api/download/models/191882?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {
     },
     "lora_downloads": {
+        "povblowjob.safetensors": "https://civitai.com/api/download/models/135068"
     }
 }
