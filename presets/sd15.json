@@ -1,5 +1,5 @@
 {
-    "default_model": "NSFW_Sevenof9_v3_.safetensors",
+    "default_model": "SDXL_Sevenof9_4th_NSFW.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "NSFW_Sevenof9_v3_.safetensors": "https://civitai.com/api/download/models/157707"
+        "SDXL_Sevenof9_4th_NSFW.safetensors": "https://civitai.com/api/download/models/199902"
     },
     "embeddings_downloads": {
     },
