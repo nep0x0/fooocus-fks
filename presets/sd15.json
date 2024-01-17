@@ -4,7 +4,7 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "SDXL_Sevenof9_7th_NSFW.safetensors",
+            "None",
             0.75
         ],
         [
@@ -43,6 +43,5 @@
     "embeddings_downloads": {
     },
     "lora_downloads": {
-        "SDXL_Sevenof9_7th_NSFW.safetensors": "https://civitai.com/api/download/models/278770"
     }
 }
