@@ -39,7 +39,7 @@
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "pyros.safetensors": "https://civitai.com/api/download/models/191882?type=Model&format=SafeTensor&size=full&fp=fp16",
-        "SDXL_Sevenof9_4th_NSFW.safetensors": "https://civitai.com/api/download/models/199902?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "sevenof.safetensors": "https://civitai.com/api/download/models/199902?type=Model&format=SafeTensor&size=pruned&fp=bf16"
     },
     "embeddings_downloads": {
     },
